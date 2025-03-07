@@ -1,0 +1,27 @@
+# Target directory (Rust build artifacts)
+target/
+
+# Rust dependencies
+**/Cargo.lock
+
+# Rust temporary files
+**/*.rs.bk
+
+# IDE and editor files
+.idea/
+.vscode/
+*.iml
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# macOS generated files
+.Spotlight-V100/
+.Trashes/
+*.swp
+*.swo
