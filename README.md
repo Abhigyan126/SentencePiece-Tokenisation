@@ -19,8 +19,8 @@ This repository provides an implementation of Google's SentencePiece tokenisatio
 Clone the repository and build the project using Cargo:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/Abhigyan126/SentencePiece-Tokenisation.git
+cd SentencePiece-Tokenisation
 cargo build --release
 ```
 
